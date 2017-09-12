@@ -1,0 +1,1 @@
+# acender_lampada_com_palmas
